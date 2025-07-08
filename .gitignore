@@ -15,3 +15,5 @@ wheels/
 /.python-version
 /uv.lock
 /requirements.txt
+*.7z
+/.vs
