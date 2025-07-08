@@ -1,0 +1,14 @@
+[project]
+name = "monday"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "alive-progress>=3.2.0",
+    "argparse>=1.4.0",
+    "dotenv>=0.9.9",
+    "sgqlc>=16.5",
+    "structlog>=25.4.0",
+    "termcolor>=3.1.0",
+]
